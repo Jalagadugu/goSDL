@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "Threat model goSDL",
+    "owner": "Naveenkumar Jalagadugu",
+    "description": "This is to threat model the goSDL project for try the Threat Dragon from OWASP."
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Shane Balfe"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "First OWASP TD",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Gavin Taylor"
+  }
+}
